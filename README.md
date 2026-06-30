@@ -1,27 +1,33 @@
 <!-- 👋 Header -->
 # Hi There, I'm Kulsoom Bano 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=300&color=8B5CF6&center=true&vCenter=true&width=800&lines=Software+Engineer+%26+App+Developer;Flutter+%26+Mobile+App+Developer;DevOps+%26+Automation+Enthusiast;Final+Year+Computer+Science+Student;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=300&color=8B5CF6&center=true&vCenter=true&width=800&lines=AI+Agent+Developer;Android+App+Developer;Web+App+%26+Website+Developer;Computer+Science+Graduate;Always+Building+%26+Learning)](https://git.io/typing-svg)
 
 ### 👩‍💻 About Me
 
 <!-- ✏️ EDIT this paragraph to sound like you -->
-👋 Hi, I'm **Kulsoom Bano**  a final-year Computer Science student and aspiring software engineer who loves turning ideas into working products. I build cross-platform mobile apps with **Flutter & Dart** (including my final-year project **smartScalX**, which estimates weight and calories), explore **DevOps & automation**, and enjoy crafting clean web interfaces. I'm always learning new tools and frameworks to write better, more reliable software. 🚀
+👋 Hi, I'm **Kulsoom Bano** — a **Computer Science graduate** and **AI Agent Developer** who loves turning ideas into intelligent, working products. I build **AI agents** that automate real-world tasks, develop **Android apps** with Flutter & Dart (like **smartScalX**, an app that estimates weight and calories), and create **web apps and websites**. I'm always exploring new tools, frameworks, and AI technologies to build smarter, more reliable products. 🚀
 
 ---
 
 # 💻 Tech Stack: 
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -32,15 +38,9 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -53,13 +53,13 @@
 ### 🚀 What I Do
 
 <!-- ✏️ EDIT the lines below to match your real projects -->
-> **📱 Mobile App Development:** Building cross-platform apps with Flutter & Dart — including my final year project **smartScalX**, an app that estimates weight and calories.
+> **🤖 AI Agent Development:** Building AI agents and automation workflows that handle real-world tasks — connecting LLMs, APIs, and tools to make software smarter and more autonomous.
 >
-> **⚙️ DevOps & Automation:** Working with Docker, Kubernetes, and CI/CD pipelines to automate builds, testing, and deployment.
+> **📱 Android App Development:** Creating cross-platform Android apps with Flutter & Dart, including **smartScalX**, an app that estimates weight and calories.
 >
-> **🌐 Web Development:** Creating clean, responsive web interfaces with HTML, CSS, and modern JavaScript.
+> **🌐 Web & Website Development:** Building responsive web apps and websites with HTML, CSS, JavaScript, and modern frameworks.
 >
-> **📚 Always Learning:** Computer Science student exploring new tools, frameworks, and ways to write better software every day.
+> **📚 Always Learning:** Computer Science graduate exploring new tools, frameworks, and AI technologies to build better products every day.
 
 ---
 
