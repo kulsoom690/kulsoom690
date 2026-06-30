@@ -72,9 +72,7 @@
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kulsoom690&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
----
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kulsoom690&theme=tokyonight&column=7&margin-w=4&margin-h=4)
 
 ### ✍️ Random Dev Quote
 
