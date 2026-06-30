@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 
 <!-- ✏️ EDIT this paragraph to sound like you -->
-👋 Hi, I'm **Kulsoom Bano** — a final-year Computer Science student and aspiring software engineer who loves turning ideas into working products. I build cross-platform mobile apps with **Flutter & Dart** (including my final-year project **smartScalX**, which estimates weight and calories), explore **DevOps & automation**, and enjoy crafting clean web interfaces. I'm always learning new tools and frameworks to write better, more reliable software. 🚀
+👋 Hi, I'm **Kulsoom Bano**  a final-year Computer Science student and aspiring software engineer who loves turning ideas into working products. I build cross-platform mobile apps with **Flutter & Dart** (including my final-year project **smartScalX**, which estimates weight and calories), explore **DevOps & automation**, and enjoy crafting clean web interfaces. I'm always learning new tools and frameworks to write better, more reliable software. 🚀
 
 ---
 
