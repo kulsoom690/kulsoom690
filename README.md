@@ -3,6 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=300&color=8B5CF6&center=true&vCenter=true&width=800&lines=Software+Engineer+%26+App+Developer;Flutter+%26+Mobile+App+Developer;DevOps+%26+Automation+Enthusiast;Final+Year+Computer+Science+Student;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
+### 👩‍💻 About Me
+
+<!-- ✏️ EDIT this paragraph to sound like you -->
+👋 Hi, I'm **Kulsoom Bano** — a final-year Computer Science student and aspiring software engineer who loves turning ideas into working products. I build cross-platform mobile apps with **Flutter & Dart** (including my final-year project **smartScalX**, which estimates weight and calories), explore **DevOps & automation**, and enjoy crafting clean web interfaces. I'm always learning new tools and frameworks to write better, more reliable software. 🚀
+
 ---
 
 # 💻 Tech Stack: 
@@ -79,8 +84,8 @@
 
 ### 🤝 Connect with Me
 
-<!-- ✏️ EDIT the two links below: put your real LinkedIn URL and your real email -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/YOUR-LINKEDIN)
+<!-- ✏️ EDIT only the email below — your LinkedIn link is already set -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kulsoom-bano-a25b88258/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/kulsoom690)
 
